@@ -10,8 +10,11 @@ body
 	background: #efefef; /*light gray*/
 	font-family: sans-serif; /*change the font letetr*/
 	background-image: url("imgs/back.png");
+	height: 100%;
+	background-position: center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
+	background-size: cover;
 
 }
 
